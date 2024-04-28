@@ -1,7 +1,8 @@
-### Olá! Sou a Larissa Fernandes
+### Larissa Fernandes
 
-- 💻 Hoje trabalho como DevOps
-- 📚 Estudando Docker
+- 💻 Analista de Operações DevOps
+- 📚 Técnico Tecnologia da Informação / QI Faculdade & Escola Técnica
+- 📚 Analise e Desenvolvimento de Sistemas / Fadergs
 
 ##
 
@@ -14,7 +15,6 @@
 ##  
 
 <div> 
-  <a href="https://www.instagram.com/lari_frnandes/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:larissa05.lsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-frnandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
